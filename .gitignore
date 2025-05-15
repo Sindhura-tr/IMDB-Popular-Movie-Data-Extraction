@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# streamlit ignore files
+.streamlit/secrets/
+
 # Distribution / packaging
 .Python
 build/
