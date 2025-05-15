@@ -3,7 +3,6 @@ import csv,requests
 import pandas as pd
 import streamlit as st
 
-
 class api_extracter:
     # create instance attributes
     def __init__(self,api_key):
