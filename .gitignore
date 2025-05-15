@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # streamlit ignore files
-.streamlit/secrets.toml/
+.streamlit/secrets.toml
 
 # Distribution / packaging
 .Python
